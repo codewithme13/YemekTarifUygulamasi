@@ -1,0 +1,11 @@
+YeniMalzemeForm
+Tarif_Yönretimi 
+Tarif_ekle_control 
+Tarifler_Control
+Malzemeler_Control
+Arama_Filtreleme
+App_config
+Yukarıdakı dosaylar ıcerısınde gererklı database adreslerını kednı database baglantı adreslerınıze gore degısırınız.
+Projede PostgreSql kullanılmıştır.
+Gerekli paketlerı ındırmeyı untumayınız
+
